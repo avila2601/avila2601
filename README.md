@@ -7,6 +7,11 @@
 
 🚀 Apasionado por la **mejora continua**, la **innovación tecnológica** y el crecimiento profesional constante.
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### Contacto
 
 [![Email](https://img.shields.io/badge/📧%20Email-diego2601%40gmail.com-blue)](mailto:diego2601@gmail.com)
