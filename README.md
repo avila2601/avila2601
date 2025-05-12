@@ -8,8 +8,8 @@
 🚀 Apasionado por la **mejora continua**, la **innovación tecnológica** y el crecimiento profesional constante.
 
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### Contacto
 
