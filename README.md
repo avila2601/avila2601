@@ -1,7 +1,4 @@
-🎓 **Ing. Industrial** | 🏅 **Especialista en Alta Gerencia**  
-📍 **Manizales, Colombia**
-
-**[![Email](https://img.shields.io/badge/📧%20Email-diego2601%40gmail.com-blue)](mailto:diego2601@gmail.com)**
+🎓 **Ing. Industrial** | 🏅 **Especialista en Alta Gerencia**
 
 ## 💻 Frontend Developer en formación
 
@@ -25,3 +22,5 @@ Combino **pensamiento sistémico** de la ingeniería con **habilidades frontend*
 - **Documentación técnica** detallada y **gestión de stakeholders**
 
 🎯 **Objetivo:** Primera oportunidad como **Frontend Developer Junior**
+
+**[![Email](https://img.shields.io/badge/📧%20Email-diego2601%40gmail.com-blue)](mailto:diego2601@gmail.com)**
